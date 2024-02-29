@@ -1,0 +1,13 @@
+StepDefinitions\GetStartedPageSteps.class
+Utilities\GenericHelper.class
+Pages\GetStartedPage.class
+Pages\CompanyPage.class
+Runner\TestRunner.class
+Utilities\ExcelUtility.class
+Pages\HomePage.class
+StepDefinitions\HomePageSteps.class
+StepDefinitions\Hooks.class
+Utilities\BrowserFactory.class
+Utilities\ConfigurationReader.class
+Utilities\Driver.class
+StepDefinitions\CompanyPageSteps.class
